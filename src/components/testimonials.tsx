@@ -15,9 +15,9 @@ const testimonials = [
     rating: 5,
   },
   {
-    name: "Saad Hashman",
+    name: "Saad Hashmani",
     role: "CTO",
-    company: "StartupXYZ",
+    company: "Foodies",
     image: imageSaad,
     content:
       "Exceptional work on our mobile application. The AI integration was seamless and the user experience is outstanding. Highly recommend for any complex technical projects.",
@@ -25,7 +25,7 @@ const testimonials = [
   },
   {
     name: "Hamza A. Sheikh",
-    role: "Lead Developer",
+    role: "Developer",
     company: "HeuristicSol Pvt Ltd",
     image: imageSheikh,
     content:

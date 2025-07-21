@@ -2,7 +2,7 @@
 
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import Spline from "@splinetool/react-spline"
+// import Spline from "@splinetool/react-spline"
 
 import AnimatedBackground from "./animated-background"
 import MatrixRain from "./matrix-rain"
@@ -80,10 +80,10 @@ export default function Hero() {
 
 
       {/* Spline in react js */}
-        <Spline
+        {/* <Spline
         className="absolute xl: right-[-28%] opacity-30"
         scene="https://prod.spline.design/9VKPwbyv729JpYXF/scene.splinecode" 
-      />
+      /> */}
 
       {/* Spline in next js */}
       {/* <SplineNext

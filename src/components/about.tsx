@@ -1,6 +1,7 @@
 import { Download, User } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import Image1 from "@/assets/Profile1.jpeg"
+// import Image1 from "@/assets/Profile1.jpeg"
+import Image2 from "@/assets/Profile2.jpg"
 // import Resume from "@/assets/Syed.Hussain.Iqrar.pdf"
 import Image from "next/image"
 
@@ -68,7 +69,7 @@ export default function About() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden shadow-2xl border-8 border-white dark:border-gray-700">
                 <Image
-                  src={Image1}
+                  src={Image2}
                   alt="Professional headshot"
                   width={320}
                   height={320}
